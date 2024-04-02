@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  },
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run":"cypress run",
+    "cy:spec": "cypress run --spec",
+    "cy:test:chrome": "cypress run --brower chrome"
+  }
+}
